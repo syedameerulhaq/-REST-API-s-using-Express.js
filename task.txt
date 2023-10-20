@@ -1,0 +1,19 @@
+REST API -JSON
+
+GET/user - HTML Docuements render
+GET/api/user -List all user json  //for moobile user
+
+
+GET/user/1 -get user with id 1
+GET/user/2 -get user with id 2
+
+Dynamic Path Parameters
+GET/api/users/:id
+:id -> variable,it is Dynamic
+
+POST /user - Create new user
+
+PATCH /user/id -Edit the user with id 1
+
+DELETE/user/id -DELETE the user with id 1
+website mockaroo for fake data
